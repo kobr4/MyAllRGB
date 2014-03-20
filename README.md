@@ -12,7 +12,7 @@ My algorithm is straight :
 
 
 Requires : 
-Apache Portable Runtime (multithreading)
-FLTK (UI toolkit)
+* Apache Portable Runtime (multithreading)
+* FLTK (UI toolkit)
 
 win32 build : http://www.nicolasmy.com/blog/uplodad/MyAllRGB-win32.zip
