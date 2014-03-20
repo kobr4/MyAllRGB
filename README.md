@@ -9,3 +9,11 @@ My algorithm is straight :
 * generate palette color
 * create seed pixels (at least one)
 * find a colored pixel, crawl horizontally or vertically to find the first non-colored pixel, color the pixel with the closest available color (using norm 1 distance against the last visited color)
+
+
+Sourcecode available at GitHub : https://github.com/kobr4/MyAllRGB
+Requires : 
+Apache Portable Runtime (multithreading)
+FLTK (UI toolkit)
+
+win32 build : http://www.nicolasmy.com/blog/uplodad/MyAllRGB-win32.zip
