@@ -8,7 +8,7 @@ The All RGB challenge consists in displaying every rgb space color in one pictur
 My algorithm is straight :
 * generate palette color
 * create seed pixels (at least one)
-* find a colored pixel, crawl horizontally or vertically to find the first non-colored pixel, color the pixel with the closest available color (using norm 1 distance against the last visited color)
+* repeat the following until no more color available or screen is entirely colored : find a colored pixel, crawl horizontally or vertically to find the first non-colored pixel, color the pixel with the closest available color (using norm 1 distance against the last visited color)
 
 
 Requires : 
