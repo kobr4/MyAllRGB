@@ -16,7 +16,7 @@ Set image generation parameters
 
 Click on "Generate !" button
 
-Wait until the image is fully computed, then the computed image should be available as under "output.tga" at the root application directory. 
+Wait until the image is fully computed, result should be available as under "output.tga" at the root application directory. 
 
 Requires :
 ==========
