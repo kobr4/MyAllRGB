@@ -11,13 +11,15 @@ My algorithm is straight :
 * repeat the following until no more color available or screen is entirely colored : find a colored pixel, crawl horizontally or vertically to find the first non-colored pixel, color the pixel with the closest available color (using norm 1 distance against the last visited color)
 
 Usage :
+=======
 Set image generation parameters
 
 Click on "Generate !" button
 
 Wait until the image is fully computed, then the computed image should be available as under "output.tga" at the root application directory. 
 
-Requires : 
+Requires :
+==========
 * Apache Portable Runtime (multithreading)
 * FLTK (UI toolkit)
 
