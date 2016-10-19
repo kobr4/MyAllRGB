@@ -23,6 +23,6 @@ Requires :
 * Apache Portable Runtime (multithreading)
 * FLTK (UI toolkit)
 
-win32 build : http://www.nicolasmy.com/blog/uplodad/MyAllRGB-win32.zip
+win32 build : http://www.nicolasmy.com/blog/upload/MyAllRGB-win32.zip
 
 ![alt tag](http://www.nicolasmy.com/blog/upload/myallrgb3.jpg)
